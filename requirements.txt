@@ -1,0 +1,8 @@
+nltk
+flask
+textblob
+chatterbot
+chatterbot_corpus
+spacy
+transformers
+torch
