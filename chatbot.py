@@ -75,7 +75,7 @@ class Chatbot:
             return self.perguntar_recomendacao()
 
         elif entrada == "3":
-            return "Encaminhando para um atendente humano... (simulado)"
+            return "Encaminhando para um atendente disponivel... Envie Mensagem com sua duvida,problema ou  questão para o número (81983685500)"
 
         elif entrada == "4":
             return "Até mais! Foi um prazer te ajudar. 😊"
